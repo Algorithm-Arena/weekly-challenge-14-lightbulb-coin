@@ -7,11 +7,11 @@
 
 ### Winners
 
-In first place, @nikpundik wins $75. He built a fully functional Bulb Coin 💡 and even featured Alice and Bob! https://github.com/Algorithm-Arena/weekly-challenge-14-lightbulb-coin/issues/1
+* In first place, @nikpundik wins $75. He built a fully functional Bulb Coin 💡 and even featured Alice and Bob! https://github.com/Algorithm-Arena/weekly-challenge-14-lightbulb-coin/issues/1
 
 https://github.com/Algorithm-Arena/weekly-challenge-14-lightbulb-coin/assets/197597/6e9f7411-d997-4f2e-89a4-430037b93085
 
-In second place, @Uzo2005 wins $50. I really like how the miner is just a while loop picking up random numbers and checking if the md5 hash starts with 4 zeroes, so simple and elegant. 
+* In second place, @Uzo2005 wins $50. I really like how the miner is just a while loop picking up random numbers and checking if the md5 hash starts with 4 zeroes, so simple and elegant. https://github.com/Algorithm-Arena/weekly-challenge-14-lightbulb-coin/issues/2
 
 ![image](https://github.com/Algorithm-Arena/weekly-challenge-14-lightbulb-coin/assets/197597/d84af07c-e1e3-4be0-8e1e-390324d9da59)
 
